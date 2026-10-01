@@ -1,0 +1,42 @@
+[
+  {
+    "id": "verified-best-prices",
+    "label": "Verified Best Prices",
+    "className": "bg-[#F2F2F2]"
+  },
+  {
+    "id": "bulk-price-drops",
+    "label": "Bulk Price Drops",
+    "className": "bg-gradient-to-br from-gray-700 to-gray-900"
+  },
+  {
+    "id": "konganow",
+    "label": "KongaNow",
+    "className": "bg-black"
+  },
+  {
+    "id": "buy-more-save-more",
+    "label": "Buy More. Save More",
+    "className": "bg-black"
+  },
+  {
+    "id": "flash-sales-reloaded",
+    "label": "Flash Sales Reloaded",
+    "className": "bg-black"
+  },
+  {
+    "id": "home-essentials",
+    "label": "Home Essentials",
+    "className": "bg-[#D9D9D9]"
+  },
+  {
+    "id": "groceries",
+    "label": "Groceries",
+    "className": "bg-[#F3E9D2]"
+  },
+  {
+    "id": "hot-deal",
+    "label": "Hot Deal",
+    "className": "bg-gradient-to-br from-orange-600 to-red-800"
+  }
+]
